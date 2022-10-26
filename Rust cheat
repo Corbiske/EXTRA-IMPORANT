@@ -1,0 +1,14 @@
+Function Greater_than(first, second) {
+    If (first > Second) {
+    } else {
+        return second;
+    }
+}
+
+function less_than(first, second) {
+     if (first < second) {
+          return first;
+    } else {
+          return second;
+    }
+}
